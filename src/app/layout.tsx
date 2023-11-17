@@ -22,12 +22,6 @@ export const metadata: Metadata = {
     title: APP_NAME,
     description: APP_DESCRIPTION,
     url: APP_URL,
-    images: [
-      {
-        url: '/og-image.png',
-        alt: 'Todo og-image',
-      },
-    ],
     siteName: APP_NAME,
     type: 'website',
     locale: 'en_US',
